@@ -12,7 +12,7 @@ The hardware assembled on the breadboard uses the SparkFun Sound Detector captur
 In addition to showing this data on the LCD and turning the LEDs on and off depending on the sound level (green for quiet, yellow for moderate and red for loud), the ESP8266 is used to connect the device to the local network and send it to a web server, where the iOS app reads it and shows it to the user from anywhere.
 
 <p><br/>
-<img src="./static/img/slm.png" width="512" height="401" class="img-responsive center-block" />
+<img src="http://toribeiro.com/static/img/slm.png" width="512" height="401" class="img-responsive center-block" />
 <br/>
 
 #The iOS app: Recife Sound Monitoring
