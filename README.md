@@ -1,5 +1,5 @@
 # What is RecNoise?
-The *RecNoise* project is a IoT device that integrates hardware and software in order to map places that 
+The **RecNoise** project is a IoT device that integrates hardware and software in order to map places that 
 usually make noise above the adequate level. The hardware is assembled on a regular breadboard using the following components:
 
 * Arduino UNO;
@@ -15,7 +15,7 @@ In addition to showing this data on the LCD and turning the LEDs on and off depe
 <img src="http://toribeiro.com/static/img/slm.png" width="512" height="401" class="img-responsive center-block" />
 <br/>
 
-#The iOS app: Recife Sound Monitoring
+#The RecNoise iOS app
 To test the system and demo the idea, I created some pins on Recife's map, simulating places that would have the hardware installed. As it constatly updates a web server with the value in decibels, the user that has the iOS on the phone could simply choose a location and see the noise level that it's emitting. Moreover, the location could be notified by a call or email.
 
 
