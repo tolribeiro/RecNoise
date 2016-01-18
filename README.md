@@ -24,4 +24,8 @@ As it constatly updates a web server with the value in decibels, the user that h
 <img src="http://toribeiro.com/static/img/print.png" width="875" height="480" class="img-responsive center-block" />
 <br/>
 
+#The ThingSpeak Web Server
 
+In order to update the values on the iOS App, the hardware sends the last decibel value to a ThingSpeak channel after collecting it for 1 minute. The HTTP request returns a JSON object that is deserialized and printed on the screen for the user.
+```
+{"channel":{"id":,"name":"","latitude":"","longitude":"","field1":"Decibeis","created_at":"2015-08-28T06:07:18Z","updated_at":"2016-01-11T14:48:31Z","last_entry_id":506},"feeds":[50.33]}```
