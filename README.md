@@ -20,6 +20,8 @@ To test the system and demo the idea, I created some pins on Recife's map, simul
 
 As it constatly updates a web server with the value in decibels, the user that has the iOS on the phone could simply choose a location and see the noise level that it's emitting. Moreover, the location could be notified by a call or email.
 
-
+<p><br/>
+<img src="http://toribeiro.com/static/img/print.png" width="875" height="480" class="img-responsive center-block" />
+<br/>
 
 
