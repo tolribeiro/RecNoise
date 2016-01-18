@@ -16,6 +16,10 @@ In addition to showing this data on the LCD and turning the LEDs on and off depe
 <br/>
 
 #The RecNoise iOS app
-To test the system and demo the idea, I created some pins on Recife's map, simulating places that would have the hardware installed. As it constatly updates a web server with the value in decibels, the user that has the iOS on the phone could simply choose a location and see the noise level that it's emitting. Moreover, the location could be notified by a call or email.
+To test the system and demo the idea, I created some pins on Recife's map, simulating places that would have the hardware installed. 
+
+As it constatly updates a web server with the value in decibels, the user that has the iOS on the phone could simply choose a location and see the noise level that it's emitting. Moreover, the location could be notified by a call or email.
+
+
 
 
