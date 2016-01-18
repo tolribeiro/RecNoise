@@ -12,7 +12,7 @@ The hardware uses the SparkFun Sound Detector to capture the analog value repres
 In addition to showing this data on the LCD and turning the LEDs on and off depending on the sound level (green for quiet, yellow for moderate and red for loud), the ESP8266 is used to connect the device to the local network and send it to a web server, where the iOS app reads it and shows it to the user from anywhere.
 
 <br/>
-<img src="./static/img/alto.JPG" width="447" height="335" class="img-responsive center-block" />
+<img src="http://toribeiro.com/static/img/alto.JPG" width="447" height="335" class="img-responsive center-block" />
 <br/>
 
 #The RecNoise iOS app
