@@ -35,5 +35,5 @@ In order to update the values on the iOS App, the hardware sends the last decibe
 
 Here you can see the video of the whole project put together: 
 <br/>
-<a href="https://www.youtube.com/watch?v=G-qB4gLC1Ag" target="_blank"><img src="http://toribeiro.com/static/img/youtube-screenshot.png" width="500" height="300" class="img-responsive center-block" /><a/>
+<a href="https://www.youtube.com/watch?v=G-qB4gLC1Ag" target="_blank"><img src="http://toribeiro.com/static/img/youtube-screenshot.png" width="490" height="275" class="img-responsive center-block" /><a/>
 <br/>
