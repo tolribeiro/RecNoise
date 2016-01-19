@@ -82,40 +82,12 @@
     ann4.subtitle = @"Restaurante";
     ann4.coordinate = bistroBoteco.center;
     [_mapView addAnnotation:ann4];
-    
-    
-//    NSData *lastSoundData = [[NSData alloc] initWithContentsOfURL:
-//                              [NSURL URLWithString:@"http://api.thingspeak.com/channels/53759/feed/last.json?key=IGPEC0UJCH5I6IAY"]];
-//    
-//    
-//    NSError *error;
-//    NSMutableDictionary *data = [NSJSONSerialization
-//                                       JSONObjectWithData:lastSoundData
-//                                       options:kNilOptions
-//                                       error:&error];
-//    
-//    if( error )
-//    {
-//        NSLog(@"%@", [error localizedDescription]);
-//    }
-//    else {
-//        NSString *valor = [data objectForKey:@"field1"];
-//        NSLog(@"%@",valor);
-//        valor = [valor stringByAppendingString:@" dB"];
-//        NSLog(@"%@",valor);
-//        _value = valor;
-//    }
-    
-    
-    
 }
 
 -(MKAnnotationView *) mapView:(MKMapView *)mapView viewForAnnotation:(id<MKAnnotation>)annotation {
     MKAnnotationView *MyPin=[[MKAnnotationView alloc] initWithAnnotation:annotation reuseIdentifier:@"current"];
     
     //MyPin.pinColor = MKPinAnnotationColorRed;
-    
-    
     
     MyPin.image = [UIImage imageNamed:@"CustomPin"];
     
@@ -181,7 +153,6 @@
             NSLog(@"%@",valor);
             _value = valor;
         }
-
         
         info.valueReal = _value;
     }

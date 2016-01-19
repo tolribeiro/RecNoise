@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6267C2E7-2299-4FB6-B137-8E923464476F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>287038E22ABAFB4F23681F435696B8E9257E61FA</key>
+		<string>https://github.com/tolribeiro/soundmonitoring.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Recife SM.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>287038E22ABAFB4F23681F435696B8E9257E61FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tolribeiro/soundmonitoring.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>287038E22ABAFB4F23681F435696B8E9257E61FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>287038E22ABAFB4F23681F435696B8E9257E61FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Recife%20SM</string>
+		</dict>
+	</array>
+</dict>
+</plist>

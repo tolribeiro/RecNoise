@@ -30,6 +30,16 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (IBAction)callLocation:(id)sender {
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"tel:(123)456-7891"]];
+}
+
+- (IBAction)communicateByEmail:(id)sender {
+    [[UIApplication sharedApplication] openURL:[NSURL URLWithString:@"mailto:contact@gmail.com"]];
+}
+
+
+
 /*
 #pragma mark - Navigation
 
