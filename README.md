@@ -9,6 +9,8 @@ usually make noise above the adequate level. The hardware is assembled on a regu
 
 The hardware uses the SparkFun Sound Detector to capture the analog value representing the sound in the room while the Arduino reads it and calculates an equivalent in decibel. 
 
+<img width="1023" alt="screen shot 2018-07-11 at 10 05 17 pm" src="https://user-images.githubusercontent.com/6345197/42610301-8af12a02-8556-11e8-8da7-92edc0cd5018.png">
+
 In addition to showing this data on the LCD and turning the LEDs on and off depending on the sound level (green for quiet, yellow for moderate and red for loud), the ESP8266 is used to connect the device to the local network and send it to a web server, where the iOS app reads it and shows it to the user from anywhere.
 
 ## The RecNoise iOS app
